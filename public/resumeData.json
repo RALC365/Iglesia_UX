@@ -23,11 +23,6 @@
         "className":"fa fa-facebook"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com",
-        "className":"fa fa-linkedin"
-      },
-      {
         "name":"instagram",
         "url":"https://www.instagram.com/iglesiadelaciudad_int/",
         "className":"fa fa-instagram"
