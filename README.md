@@ -28,7 +28,7 @@ Cabe mencionar, que este proyecto se continuará trabajando (puliendo) para su f
 
 --------------------------SCREENSHOTS--------------------------
 Home
-![Screenshot](Captura de pantalla_111.png)
+![Screenshot](./Screenshot/Captura de pantalla_111.png)
 
 Acerca de nosotros
 ![Screenshot](Captura de pantalla_112.png)
