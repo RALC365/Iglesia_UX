@@ -13,14 +13,14 @@ class Footer extends Component {
       <footer>
 
      <div className="row">
-        <div className="twelve columns">
+        <div className="twelve columns" >
+          <br/><br/>
            <ul className="social-links">
               {networks}
            </ul>
 
            <ul className="copyright">
-              <li>&copy; Copyright 2019 Iglesia de la Ciudad - Internacional</li>
-              <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
+              <li>&copy; Copyright Iglesia de la Ciudad - Internacional 2019</li>
            </ul>
 
         </div>

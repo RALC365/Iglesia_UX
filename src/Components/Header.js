@@ -24,10 +24,11 @@ class Header extends Component {
          <ul id="nav" className="nav">
             <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
             <li><a className="smoothscroll" href="#about">Acerca de Nosotros</a></li>
-	         <li><a className="smoothscroll" href="#resume">Historia</a></li>
+	         <li><a className="smoothscroll" href="#resume">Eventos</a></li>
             <li><a className="smoothscroll" href="#portfolio">Ministerios</a></li>
             <li><a className="smoothscroll" href="#testimonials">Testimonios</a></li>
-            <li><a className="smoothscroll" href="#calendario">Calendario</a></li>
+            <li><a className="smoothscroll" href="#calendar">Calendario</a></li>
+            <li><a className="smoothscroll" href="#card">Ofrendar</a></li>
             <li><a className="smoothscroll" href="#contact">Contáctanos</a></li>
          </ul>
 
@@ -35,7 +36,7 @@ class Header extends Component {
 
       <div className="row banner">
          <div className="banner-text">
-            <h1 className="responsive-headline">{name}</h1>
+            <h1 className="responsive-headline">Iglesia de la Ciudad - Internacional</h1>
             <h3>¡DONDE TÚ NO ESTÁS SOLO!</h3>
             <hr />
             <ul className="social">

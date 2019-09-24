@@ -23,11 +23,6 @@
         "className":"fa fa-facebook"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com",
-        "className":"fa fa-linkedin"
-      },
-      {
         "name":"instagram",
         "url":"https://www.instagram.com/iglesiadelaciudad_int/",
         "className":"fa fa-instagram"
@@ -35,62 +30,62 @@
     ]
   },
   "resume":{
-    "skillmessage":"Actividades realizadas comunmente en el iglesia",
+    "skillmessage":"",
     "education":[
       {
-        "school":"Actividad",
-        "degree":"Lugar",
-        "graduated":"Fecha",
-        "description":"Descripcion"
+        "school":"Una noche mágica",
+        "degree":"Templo principal",
+        "graduated":"30-09-2019",
+        "description":"Después de las noches más oscuras, vienen los amaneceres mágicos"
       },
       {
-        "school":"Actividad",
-        "degree":"Lugar",
-        "graduated":"Fecha",
-        "description":"Descripcion"
+        "school":"Bautismos",
+        "degree":"Parqueo IC",
+        "graduated":"02-10-2019",
+        "description":"Una promesa, una decisión... una vida eterna"
       }
     ],
     "work":[
       {
-        "company":"Actividad",
-        "title":"Lugar ",
-        "years":"Fecha",
-        "description":"Descripcion"
+        "company":"Visita niños sin hogar",
+        "title":"Casa hogar Dios de Gracia",
+        "years":"29-09-2019",
+        "description":"Instruye al niño y cuando crezca jamás se apartará de Él. Apoyemos a nuestro futuro"
       },
       {
-        "company":"Actividad",
-        "title":"Lugar ",
-        "years":"Fecha",
-        "description":"Descripcion"
+        "company":"Apoyo Ancianos",
+        "title":"Hospital Escuela ",
+        "years":"12-10-2019",
+        "description":"Aquellos veteranos que dieron su vida entero a nuestro servicio, ahora necesitan que le devolvamos el favor"
       }
     ],
     "skills":[
       {
-        "name":"Actividad a",
+        "name":"Ayudas de Amor",
         "level":"60%"
       },
       {
-        "name":"Actividad b",
+        "name":"Your hands, my hands",
         "level":"55%"
       },
       {
-        "name":"Actividad c",
+        "name":"IC para el mundo",
         "level":"50%"
       },
       {
-        "name":"Actividad d",
+        "name":"Be child, be happy",
         "level":"90%"
       },
       {
-        "name":"Actividad e",
+        "name":"¿Cuánto esta tu pureza?",
         "level":"80%"
       },
       {
-        "name":"Actividad f",
+        "name":"Cada vez más cerca de Cristo",
         "level":"50%"
       },
       {
-        "name":"Actividad g",
+        "name":"Todos somos hermanos",
         "level":"80%"
       }
     ]
@@ -99,33 +94,33 @@
     "projects": [
       {
         "title":"Apostólico",
-        "category":"Descripción",
+        "category":"La palabra apóstol viene directamente de la palabra griega αποστολος (apostolos), que significa alguien que ha sido enviado. La palabra misionera originalmente tenía un significado similar.",
         "image":"apostolico.jpg",
-        "url":""
+        "url":"https://nuestrodios.com/que-es-el-ministerio-apostolico/"
       },
       {
         "title":"Pastoral",
-        "category":"Descripción",
+        "category":"Jesús dijo: “Yo soy el buen pastor” (Juan 10:11).",
         "image":"pastoral.jpg",
-        "url":""
+        "url":"https://wol.jw.org/es/wol/d/r4/lp-s/2012812"
       },
       {
         "title":"Maestros",
-        "category":"Descripción",
+        "category":"Necesitamos maestros que hayan recibido personalmente revelación y comprensión de parte de Dios.",
         "image":"maestros.jpg",
-        "url":""
+        "url":"https://www.bibliatodo.com/Diccionario-biblico/maestro"
       },
       {
         "title":"Evangelistas",
-        "category":"Descripción",
+        "category":"Antes de su ascensión, Jesús se apareció a sus 11 discípulos restantes y les dio sus famosas últimas instrucciones: “Id por todo el mundo y predicad el evangelio para (evangelizar) a toda criatura” (Marcos 16:15).",
         "image":"evangelistas.jpg",
-        "url":""
+        "url":"https://www.wikicristiano.org/diccionario-biblico/significado/evangelista/"
       },
       {
         "title":"Profetas",
-        "category":"Descripción",
+        "category":"Los profetas traerán mensajes de aliento o corrección, tal vez solo para su iglesia, tal vez para su área, tal vez para todos los creyentes en su país.",
         "image":"profetas.jpg",
-        "url":""
+        "url":"https://www.significados.com/profeta/"
       }
     ]
   },
