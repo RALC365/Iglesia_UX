@@ -29,35 +29,46 @@ Cabe mencionar, que este proyecto se continuará trabajando (puliendo) para su f
 --------------------------SCREENSHOTS--------------------------
 
 Home
-![Screenshot](../Screenshot/Captura de pantalla_111.png)
+
+![Screenshot](Screenshot/Captura de pantalla_111.png)
 
 Acerca de nosotros
+
 ![Screenshot](Captura de pantalla_112.png)
 
 Eventos
+
 ![Screenshot](Captura de pantalla_113.png)
 
 Ministerios
+
 ![Screenshot](Captura de pantalla_114.png)
 
 Testimonios/Frases
+
 ![Screenshot](Captura de pantalla_115.png)
 
 Calendario - Mes
+
 ![Screenshot](Captura de pantalla_116.png)
 
 Calendario - Agenda
+
 ![Screenshot](Captura de pantalla_117.png)
 
 Ofrendar - Llenando formulario
+
 ![Screenshot](Captura de pantalla_118.png)
 
 Ofrendar - Transacción procesada
+
 ![Screenshot](Captura de pantalla_120.png)
 
 Contáctanos 
+
 ![Screenshot](Captura de pantalla_121.png)
 
 DEMO
+
 ![Screenshot](Iglesia_UX.mp4)
 
