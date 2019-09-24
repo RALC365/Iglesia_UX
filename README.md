@@ -31,7 +31,7 @@ Cabe mencionar, que este proyecto se continuará trabajando (puliendo) para su f
 Home
 
 ![Screenshot](/Screenshot/Captura de pantalla_111.png)
-<img src="/docs/logo.png" alt="My cool logo"/>
+<img src="/Screenshot/Captura de pantalla_111.png" alt="My cool logo"/>
 
 Acerca de nosotros
 
