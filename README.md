@@ -30,46 +30,48 @@ Cabe mencionar, que este proyecto se continuará trabajando (puliendo) para su f
 
 Home
 
-![Screenshot](/Screenshot/Captura de pantalla_111.png)
-<img src="/Screenshot/Captura de pantalla_111.png" alt="My cool logo"/>
+<img src="/Screenshot/Captura de pantalla_111.png" alt="Home"/>
 
 Acerca de nosotros
 
-![Screenshot](Captura de pantalla_112.png)
+<img src="/Screenshot/Captura de pantalla_112.png" alt="Acerca de nosotros"/>
 
 Eventos
 
-![Screenshot](Captura de pantalla_113.png)
+<img src="/Screenshot/Captura de pantalla_113.png" alt="Eventos"/>
 
 Ministerios
 
-![Screenshot](Captura de pantalla_114.png)
+<img src="/Screenshot/Captura de pantalla_114.png" alt="Ministerios"/>
 
 Testimonios/Frases
 
-![Screenshot](Captura de pantalla_115.png)
+<img src="/Screenshot/Captura de pantalla_115.png" alt="Testimonios_Frases"/>
 
 Calendario - Mes
 
-![Screenshot](Captura de pantalla_116.png)
+<img src="/Screenshot/Captura de pantalla_116.png" alt="Calendario_Mes"/>
 
 Calendario - Agenda
 
-![Screenshot](Captura de pantalla_117.png)
+<img src="/Screenshot/Captura de pantalla_117.png" alt="Calendario_Agenda"/>
 
 Ofrendar - Llenando formulario
 
-![Screenshot](Captura de pantalla_118.png)
+<img src="/Screenshot/Captura de pantalla_118.png" alt="Ofrendar_Llenando formulario"/>
 
 Ofrendar - Transacción procesada
 
-![Screenshot](Captura de pantalla_120.png)
+<img src="/Screenshot/Captura de pantalla_119.png" alt="Ofrendar_Transacción procesada"/>
 
 Contáctanos 
 
-![Screenshot](Captura de pantalla_121.png)
+<img src="/Screenshot/Captura de pantalla_121.png" alt="Contáctanos"/>
 
 DEMO
 
-![Screenshot](Iglesia_UX.mp4)
+<video width="320" height="240" controls>
+     <source src="/Screenshot/Iglesia_UX.mp4" type="video/mp4">
+     El navegador no soporta el tag de video de HTML
+</video>
 
