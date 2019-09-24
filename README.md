@@ -30,7 +30,7 @@ Cabe mencionar, que este proyecto se continuará trabajando (puliendo) para su f
 
 Home
 
-![Screenshot](Screenshot/Captura de pantalla_111.png)
+![Screenshot](/Screenshot/Captura de pantalla_111.png)
 
 Acerca de nosotros
 
