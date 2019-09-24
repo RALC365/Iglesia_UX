@@ -27,8 +27,9 @@ Se utiliza las base de dato en Real Time para objetos dinámicos, como ser event
 Cabe mencionar, que este proyecto se continuará trabajando (puliendo) para su futura lanzamiento como página web de la Iglesia de la Ciudad.
 
 --------------------------SCREENSHOTS--------------------------
+
 Home
-![Screenshot](./Screenshot/Captura de pantalla_111.png)
+![Screenshot](../Screenshot/Captura de pantalla_111.png)
 
 Acerca de nosotros
 ![Screenshot](Captura de pantalla_112.png)
